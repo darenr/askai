@@ -1,0 +1,8 @@
+name: askai
+
+dependencies:
+  - conda-forge::python=3.9
+  - pip:
+      - click
+      - PyYAML
+      - openai
